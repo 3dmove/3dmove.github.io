@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>黄一笑 on Wayne的博客</title>
-    <link>https://3dmove.github.io/authors/%E9%BB%84%E4%B8%80%E7%AC%91/</link>
-    <description>Recent content in 黄一笑 on Wayne的博客</description>
+    <title>建站 on Wayne的博客</title>
+    <link>https://3dmove.github.io/series/%E5%BB%BA%E7%AB%99/</link>
+    <description>Recent content in 建站 on Wayne的博客</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
     <lastBuildDate>Thu, 09 Oct 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://3dmove.github.io/authors/%E9%BB%84%E4%B8%80%E7%AC%91/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://3dmove.github.io/series/%E5%BB%BA%E7%AB%99/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>怎么建立自己的博客网站</title>
       <link>https://3dmove.github.io/posts/first-post/</link>

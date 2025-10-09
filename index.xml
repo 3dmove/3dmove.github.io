@@ -6,14 +6,14 @@
     <description>Recent content on Wayne的博客</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 05 Oct 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Oct 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://3dmove.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>3D</title>
+      <title>怎么建立自己的博客网站</title>
       <link>https://3dmove.github.io/posts/first-post/</link>
-      <pubDate>Sun, 05 Oct 2025 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 09 Oct 2025 00:00:00 +0000</pubDate>
       <guid>https://3dmove.github.io/posts/first-post/</guid>
-      <description>&lt;center&gt;&lt;figure&gt;&lt;img src=&#34;https://3dmove.github.io/posts/first-post/pic/N90.jpg&#34;&#xA;    alt=&#34;星空&#34; width=&#34;60%&#34;&gt;&lt;figcaption&gt;&#xA;      &lt;p&gt;星空&lt;/p&gt;&#xA;    &lt;/figcaption&gt;&#xA;&lt;/figure&gt;&#xA;&lt;/center&gt;</description>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;strong&gt;ddddd&lt;/strong&gt;&lt;em&gt;d&lt;/em&gt;ddddd&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;code&gt;python&lt;/code&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;ddd&#34; &gt;搜索关键词hugo+github pages建站即可。&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;center&gt;&lt;figure&gt;&lt;img src=&#34;https://3dmove.github.io/posts/first-post/pic/N90.jpg&#34;&#xA;    alt=&#34;星空&#34; width=&#34;60%&#34;&gt;&lt;figcaption&gt;&#xA;      &lt;p&gt;星空&lt;/p&gt;&#xA;    &lt;/figcaption&gt;&#xA;&lt;/figure&gt;&#xA;&lt;/center&gt;</description>
     </item>
     <item>
       <title></title>
@@ -34,7 +34,7 @@
       <link>https://3dmove.github.io/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://3dmove.github.io/projects/</guid>
-      <description>&lt;h1 id=&#34;最近在看&#34;&gt;&#xA;  最近在看&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#%e6%9c%80%e8%bf%91%e5%9c%a8%e7%9c%8b&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;链接到标题&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;链接到标题&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;风林火山&lt;/p&gt;&#xA;&lt;p&gt;流人&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h1 id=&#34;最近在读&#34;&gt;&#xA;  最近在读&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#%e6%9c%80%e8%bf%91%e5%9c%a8%e8%af%bb&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;链接到标题&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;链接到标题&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;周四推理俱乐部&lt;/p&gt;</description>
+      <description>&lt;h1 id=&#34;最近在看&#34;&gt;&#xA;  最近在看&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#%e6%9c%80%e8%bf%91%e5%9c%a8%e7%9c%8b&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;链接到标题&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;链接到标题&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://movie.douban.com/subject/26351864/&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;风林火山&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://movie.douban.com/subject/36689815/&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;流人第五季&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h1 id=&#34;最近在读&#34;&gt;&#xA;  最近在读&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#%e6%9c%80%e8%bf%91%e5%9c%a8%e8%af%bb&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;链接到标题&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;链接到标题&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://book.douban.com/subject/36482947/&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;周四推理俱乐部：消失的子弹&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
   </channel>
 </rss>
