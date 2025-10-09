@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>黄一笑 on 黄一笑的博客</title>
-    <link>http://localhost:1313/authors/%E9%BB%84%E4%B8%80%E7%AC%91/</link>
+    <link>https://3dmove.github.io/authors/%E9%BB%84%E4%B8%80%E7%AC%91/</link>
     <description>Recent content in 黄一笑 on 黄一笑的博客</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
     <lastBuildDate>Sun, 05 Oct 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/authors/%E9%BB%84%E4%B8%80%E7%AC%91/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://3dmove.github.io/authors/%E9%BB%84%E4%B8%80%E7%AC%91/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>3D</title>
-      <link>http://localhost:1313/posts/first-post/</link>
+      <link>https://3dmove.github.io/posts/first-post/</link>
       <pubDate>Sun, 05 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/first-post/</guid>
-      <description>&lt;center&gt;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/posts/first-post/pic/N90.jpg&#34;&#xA;    alt=&#34;星空&#34; width=&#34;60%&#34;&gt;&lt;figcaption&gt;&#xA;      &lt;p&gt;星空&lt;/p&gt;&#xA;    &lt;/figcaption&gt;&#xA;&lt;/figure&gt;&#xA;&lt;/center&gt;</description>
+      <guid>https://3dmove.github.io/posts/first-post/</guid>
+      <description>&lt;center&gt;&lt;figure&gt;&lt;img src=&#34;https://3dmove.github.io/posts/first-post/pic/N90.jpg&#34;&#xA;    alt=&#34;星空&#34; width=&#34;60%&#34;&gt;&lt;figcaption&gt;&#xA;      &lt;p&gt;星空&lt;/p&gt;&#xA;    &lt;/figcaption&gt;&#xA;&lt;/figure&gt;&#xA;&lt;/center&gt;</description>
     </item>
   </channel>
 </rss>
