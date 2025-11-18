@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gemma3 on Wayne的博客</title>
+    <link>https://3dmove.github.io/tags/gemma3/</link>
+    <description>Recent content in Gemma3 on Wayne的博客</description>
+    <generator>Hugo</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Tue, 18 Nov 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://3dmove.github.io/tags/gemma3/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Google&#39;s AI model can&#39;t calculate basic math</title>
+      <link>https://3dmove.github.io/posts/sixth-post/</link>
+      <pubDate>Tue, 18 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://3dmove.github.io/posts/sixth-post/</guid>
+      <description>&lt;p&gt;Gemma3 is Google&amp;rsquo;s AI model. I ask it:&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Average of -13.3%, -4.4%, -13.9%, -43.5%, -6.2%.&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;p&gt;It answer:&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Okay, let’s calculate the average of those percentages:&#xA;Sum the percentages: -13.3 + (-4.4) + (-13.9) + (-43.5) + (-6.2) = -83.3&#xA;Divide the sum by the number of values (5): -83.3 / 5 = -16.66&#xA;Therefore, the average percentage change is -16.66%.&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;p&gt;It is wrong! The summation is &lt;code&gt;81.3&lt;/code&gt; and the correct answer is &lt;code&gt;-16.26%&lt;/code&gt;. I&amp;rsquo;m suprised that Gemma3 can&amp;rsquo;t handle such basic math.  In my understanding, large language model (LLM) is based on the probability of the context. It&amp;rsquo;s a prediction model. Therefore, the Gemma3 didn&amp;rsquo;t understand how to sum the numbers. It doesn&amp;rsquo;t truely &amp;ldquo;understand&amp;rdquo; but just &amp;ldquo;guess&amp;rdquo; it. Next time you ask AI, be careful, it might be wrong.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
